@@ -1,0 +1,15 @@
+git-scm 다운로드
+
+명령어
+GIT INIT 깃 초기 폴더 설정
+GIT ADD . 모든 파일 Commit 할 계획
+GIT ADD 파일명   특정 파일 add
+GIT commit -m "description"
+GIT push  서버에 올림
+GIT clone 서버에서 가지고옴
+git config --global user.name june8071
+git config --global user.email june8071@naver.com
+
+
+
+https://github.com/june8071/JavaScriptClass.git
